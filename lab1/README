@@ -1,0 +1,12 @@
+README:
+
+1.Please put the following file with makefile in the same directory:
+	Table.cpp(and .hpp file)
+	Errorhandler.cpp(and .hpp file)
+	Filehandler.cpp(and .hpp file)
+	Insthandler.cpp(and .hpp file)
+	main.cpp
+
+2. type make to compile files
+
+3. type make clean to delete the compiled files.
