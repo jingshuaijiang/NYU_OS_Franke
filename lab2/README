@@ -1,0 +1,14 @@
+README:
+
+1.Please put the following file with makefile in the same directory:
+	Event.cpp(and .hpp file)
+	EventHandler.cpp(and .hpp file)
+	InputHandler.cpp(and .hpp file)
+	Output.cpp(and .hpp file)
+	Process.cpp(and .hpp file)
+	Scheduler.cpp(and .hpp file)
+	main.cpp
+
+2. type make to compile files
+
+3. type make clean to delete the compiled files.
